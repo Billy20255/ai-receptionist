@@ -139,3 +139,4 @@ Fly.io, a small VPS). Requirements:
 4. Wire `_finalize_call` to write somewhere real (Sheet or GHL)
 5. Pilot with one contractor before pricing it as a product, per the
    existing plan
+# Redeploy trigger Mon Aug 17 17:48:37 UTC 2026
